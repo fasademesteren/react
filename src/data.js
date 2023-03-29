@@ -22,9 +22,9 @@ export { HeroDark as Dark };
 
 /* START HERE
  **************************************************************
-  Add your GitHub username (string - "YourUsername") below.
+  Add your GitHub username (string - "githubUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "fasademesteren";
 
 // Blog link icon (imported above)
 export const Blog = <FaLink />;
